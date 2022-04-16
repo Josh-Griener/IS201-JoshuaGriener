@@ -1,0 +1,62 @@
+.HomeBody{
+    background-color:  rgb(54, 52, 51);
+}
+.TextFormat{
+    color:rgb(255, 255, 255);
+    font-size:larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    
+}
+.AddBorderTopBottom{
+    border-top: 3px dotted rgb(255, 255, 255);
+    border-bottom: 3px dotted rgb(255, 255, 255);
+}
+.AboutBody{
+    background-color: rgb(54, 52, 51);
+    color:rgb(255, 255, 255);
+}
+.AboutHeaders{
+    text-align: center;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+.Header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.PicLayoutHome{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 5px solid rgb(255, 255, 255);
+}
+.PicLayoutTall{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    border: 5px solid rgb(255, 255, 255);
+}
+.PicLayoutFat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 5px solid rgb(255, 255, 255);
+}
+.ButtonFont{
+    color:rgb(255, 255, 255);
+}
+.AboutAnchors{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: dotted;
+    font-style:italic ;
+}
+.HobbyHeaders{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
