@@ -1,5 +1,6 @@
 .HomeBody{
     background-color:  rgb(54, 52, 51);
+    color:rgb(255, 255, 255);
 }
 .TextFormat{
     color:rgb(255, 255, 255);
@@ -19,6 +20,11 @@
 .AboutHeaders{
     text-align: center;
     
+    font-family: 'Courier New', Courier, monospace;
+}
+.TableauHeader{
+    text-align: center;
+    font-size: xx-large;
     font-family: 'Courier New', Courier, monospace;
 }
 .Header{
@@ -59,4 +65,18 @@
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: x-large;
+}
+.TabFormat{
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.TabText{
+    
+    font-size:larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    text-align: center;
 }
